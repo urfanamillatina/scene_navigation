@@ -1,2 +1,1 @@
-# scene_navigation
-Scene Navigation System for Visual Impaired People
+# Scene Navigation System for Visual Impaired People
